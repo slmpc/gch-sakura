@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "sakura-addon",
+  "version": "${version}",
+  "name": "SakuraAddon",
+  "description": "Addon for Sakura",
+  "authors": [
+  ],
+  "environment": "client",
+  "entrypoints": {
+    "sakura": [
+      "dev.exceptionteam.addon.Addon::INSTANCE"
+    ]
+  },
+  "mixins": [
+    "addon.mixins.json"
+  ],
+  "accessWidener": "addon.accesswidener",
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "fabric-api": "*",
+    "sakura": "*"
+  }
+}
