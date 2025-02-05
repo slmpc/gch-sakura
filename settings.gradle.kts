@@ -5,4 +5,4 @@ pluginManagement {
     }
 }
 
-rootProject.name = "SakuraAddon"
+rootProject.name = "GreyCatHelper"

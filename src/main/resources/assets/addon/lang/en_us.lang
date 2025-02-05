@@ -1,5 +1,2 @@
-modules.example-module=Example Module
-modules.example-module.page=Page
-modules.example-module.page.general=General
-modules.example-module.page.test=Test
-modules.example-module.slider=Slider
+modules.kelp-breaker=Kelp Breaker
+modules.kelp-breaker.range=Range

@@ -1,5 +1,2 @@
-modules.example-module=示例模块
-modules.example-module.page=页面
-modules.example-module.page.general=常规
-modules.example-module.page.test=测试
-modules.example-module.slider=滑块
+modules.kelp-breaker=海带破坏者
+modules.kelp-breaker.range=破坏范围
