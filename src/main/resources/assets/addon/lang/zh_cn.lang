@@ -1,2 +1,5 @@
 modules.kelp-breaker=海带破坏者
 modules.kelp-breaker.range=破坏范围
+
+modules.kelp-esp=海带探测器
+modules.kelp-esp.range=探测范围

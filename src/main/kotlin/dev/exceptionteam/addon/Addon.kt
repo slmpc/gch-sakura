@@ -1,6 +1,7 @@
 package dev.exceptionteam.addon
 
 import dev.exceptionteam.addon.module.misc.KelpBreaker
+import dev.exceptionteam.addon.module.render.KelpESP
 import dev.exceptionteam.addon.utils.LanguageUtils
 import dev.exceptionteam.sakura.Sakura
 import dev.exceptionteam.sakura.addons.SakuraAddon
@@ -23,6 +24,7 @@ object Addon: SakuraAddon() {
 
     override fun getModules(): List<AbstractModule> =
         listOf<AbstractModule>(
-            KelpBreaker
+            KelpBreaker,
+            KelpESP
         )
 }
