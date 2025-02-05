@@ -45,3 +45,5 @@ replay_*.log
 
 /libs/Sakura.jar
 /libs/Sakura-sources.jar
+
+/.idea/
